@@ -1,4 +1,21 @@
 .banner-home{
-    background: url("/assets/images/bg-dokter.png");
-    min-height: 400px;
+    background: url("https://raw.githubusercontent.com/abdasis/ui-siklinik/master/assets/images/bg-dokter.png");
+    height: auto;
+    padding: 100px 0 100px 0;
+    background-size: cover;
+    background-position: bottom;
+
+}
+
+
+.service{
+    height: auto;
+    padding: 100px 0 100px 0;
+    background: #fff;
+}
+
+.contact{
+    height: auto;
+    padding: 100px 0 100px 0;
+    background: #f7f7f7;
 }

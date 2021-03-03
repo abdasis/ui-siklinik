@@ -33,3 +33,7 @@
     padding: 100px 0 100px 0;
     background: #f7f7f7;
 }
+
+button.btn.btn-dark.btn-sm.rounded-pill.btn-book-now {
+    margin-top: -5px;
+}

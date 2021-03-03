@@ -6,7 +6,21 @@
     background-position: bottom;
 
 }
+.banner-service{
+    background: url("https://raw.githubusercontent.com/abdasis/ui-siklinik/master/assets/images/bg-about.png");
+    height: auto;
+    padding: 100px 0 100px 0;
+    background-size: cover;
+    background-position: bottom;
+}
 
+.booking{
+    background: url("https://raw.githubusercontent.com/abdasis/ui-siklinik/master/assets/images/bg-book.png");
+    height: auto;
+    padding: 100px 0 100px 0;
+    background-size: cover;
+    background-position: bottom;
+}
 
 .service{
     height: auto;
